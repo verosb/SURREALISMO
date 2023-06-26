@@ -1,0 +1,64 @@
+.CirculoColor{
+    width: 45px;
+    height: 45px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #59c743;
+    margin: 10px 0px 10px 0px;
+}
+.contenedorCirculos{
+    position: fixed;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+#color1{
+    background-color: #59c743;
+    box-shadow: 2px 2px 2px 2px #000000;
+}
+#color1:hover{
+    background-color: #59c743;
+    box-shadow: 1px 1px 1px 1px #000000;
+}
+#color2{
+    background-color: #b14fd8;
+    box-shadow: 2px 2px 2px 2px #000000;
+}
+#color2:hover{
+    background-color: #b14fd8;
+    box-shadow: 1px 1px 1px 1px #000000;
+}
+#color3{
+    background-color: #1e5a7e;
+    box-shadow: 2px 2px 2px 2px #000000;
+}
+#color3:hover{
+    background-color: #1e5a7e;
+    box-shadow: 1px 1px 1px 1px #000000;
+}
+#color4{
+     background-color: #1accc3;
+     box-shadow: 2px 2px 2px 2px #000000;
+}
+#color4:hover{
+    background-color: #1accc3;
+    box-shadow: 1px 1px 1px 1px #000000;
+}
+#color5{
+    background-color: #f588ac;
+    box-shadow: 2px 2px 2px 2px #000000;
+}
+#color5:hover{
+    background-color: #f588ac;
+    box-shadow: 1px 1px 1px 1px #000000;
+}
+#color6{
+    background-color: #2e81ce;
+    box-shadow: 2px 2px 2px 2px #000000;
+}
+#color6:hover{
+    background-color: #2e81ce;
+    box-shadow: 1px 1px 1px 1px #000000;
+}
